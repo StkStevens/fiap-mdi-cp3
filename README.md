@@ -156,9 +156,11 @@ Formulário completo com validações e interface moderna.
 
 ### Demonstração
 
-![Tela Padrão](./aula09-cadastro-completo/cadastro-app/assets/images/cadastro1.png)
-![Registrando](./aula09-cadastro-completo/cadastro-app/assets/images/cadastro2.png)
-![Erro no registro](./aula09-cadastro-completo/cadastro-app/assets/images/cadastro3.png)
+![Tela Padrão](aula09-cadastro-completo\cadastro-app\assets\images\cadastro1.png)
+
+![Registrando](aula09-cadastro-completo\cadastro-app\assets\images\cadastro2.png)
+
+![Erro no registro](aula09-cadastro-completo\cadastro-app\assets\images\cadastro3.png)
 
 ### Funcionalidades
 - Campo de nome
