@@ -37,7 +37,7 @@ Aplicação simples exibindo informações pessoais e estilização básica util
 
 ### Demonstração
 
-![Cartão de Visita](./aula03-cartao-visita/meu-perfil/assets/image.png)
+![Cartão de Visita](image.png)
 
 ### Funcionalidades
 - Exibição de nome
@@ -58,9 +58,9 @@ Aplicativo para controle de consumo diário de água.
 
 ### Demonstração
 
-![Contador Inicial](./aula04-contador-hidratacao/assets/images/hidratar1.png)
-![Contando os Copos](./aula04-contador-hidratacao/assets/images/hidratar2.png)
-![Meta Atingida](./aula04-contador-hidratacao/assets/images/hidratar3.png)
+![contador inicial](image-1.png)
+![contando os copos](image-2.png)
+![meta atingida](image-3.png)
 
 ### Funcionalidades
 - Incrementar contador
@@ -80,8 +80,8 @@ Mini app com navegação entre telas utilizando Expo Router.
 
 ### Demonstração
 
-![Página 1](./aula05-meu-perfil/app-router/assets/perfil1.png)
-![Página 2](./aula05-meu-perfil/app-router/assets/perfil2.png)
+![página 1](image-4.png)
+![página 2](image-5.png)
 
 ### Funcionalidades
 - Tela Home
@@ -102,9 +102,9 @@ Aplicativo de lista de tarefas com persistência local.
 
 ### Demonstração
 
-![Padrão](./aula06-memolist/MemoList/assets/images/memolist1.png)
-![Funcionaliades](./aula06-memolist/MemoList/assets/images/memolist2.png)
-![Removendo Itens](./aula06-memolist/MemoList/assets/images/memolist3.png)
+![padrão](image-6.png)
+![funcionalidades](image-7.png)
+![removendo itens](image-8.png)
 
 ### Funcionalidades
 - Adicionar tarefas
@@ -129,10 +129,10 @@ Mini sistema de loja virtual com carrinho de compras.
 
 ### Demonstração
 
-![Loja](./aula07-mini-loja/mini-loja/assets/loja1.png)
-![Produtos](./aula07-mini-loja/mini-loja/assets/loja2.png)
-![Carrinho](./aula07-mini-loja/mini-loja/assets/loja3.png)
-![Comprando](./aula07-mini-loja/mini-loja/assets/loja4.png)
+![loja](image-9.png)
+![produtos](image-10.png)
+![carrinho](image-11.png)
+![comprando](image-12.png)
 
 ### Funcionalidades
 - Listagem de produtos
@@ -156,11 +156,9 @@ Formulário completo com validações e interface moderna.
 
 ### Demonstração
 
-![Tela Padrão](aula09-cadastro-completo\cadastro-app\assets\images\cadastro1.png)
-
-![Registrando](aula09-cadastro-completo\cadastro-app\assets\images\cadastro2.png)
-
-![Erro no registro](aula09-cadastro-completo\cadastro-app\assets\images\cadastro3.png)
+![tela padrão](image-13.png)
+![registrando](image-14.png)
+![erro no registro](image-15.png)
 
 ### Funcionalidades
 - Campo de nome
